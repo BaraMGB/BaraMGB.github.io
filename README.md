@@ -1,8 +1,3 @@
-## Bing
-
-Here is the formatted text in markdown:
-
-```
 # Creating a JUCE Project with CMake
 
 Introduction: In this blog post, we will guide you through the process of setting up a JUCE project using CMake. JUCE is a powerful framework for building audio and multimedia applications, and CMake is a widely used tool for generating build systems. By combining these two tools, we can streamline the project setup process and focus on developing our audio application.
